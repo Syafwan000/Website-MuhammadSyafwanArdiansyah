@@ -184,7 +184,7 @@ h1.merdeka {
     font-family: 'Rubik Dirt', cursive;
     font-size: 80px;
     color: #C21010;
-    -webkit-text-stroke: .1px #fff;
+    -webkit-text-stroke: 1px #fff;
     text-shadow: 6px 6px rgba(255, 255, 255, 0.274);
 }
 
