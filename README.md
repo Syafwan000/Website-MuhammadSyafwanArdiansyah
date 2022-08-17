@@ -2,7 +2,7 @@
 
 Website ini menjelaskan bagaimana arti sebuah kemerdekaan menurut KBBI serta, Apa makna dari sebuah kemerdekaan. Dirgahayu NKRI yang ke 77
 
-https://syafwan000.github.io/dirgahayu-ri/
+https://syafwan000.github.io/Website-MuhammadSyafwanArdiansyah/
 
 ## Pengumpulan Lomba CuyUniverse 
 
